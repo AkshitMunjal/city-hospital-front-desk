@@ -9,6 +9,10 @@
   It never gives medical advice.
 </p>
 
+<p align="center">
+  <img src="images/how-it-works.gif" alt="How a patient message becomes a booking, and how an emergency is stopped" width="900">
+</p>
+
 ## What it does
 
 - Checks every message with plain rules first, with no AI. Emergencies get a fixed "call emergency services" reply. Prompt-injection attempts get refused.
